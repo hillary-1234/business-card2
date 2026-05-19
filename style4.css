@@ -1,0 +1,57 @@
+
+
+
+.id {
+    width: 550px;
+
+    color: #222222;
+    background: lightgray;
+
+    margin: 50px;
+    padding: 15px;
+
+    display: flex;
+    align-items: center;
+    gap: 15px;
+
+    border: 1px solid black;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.profile {
+    width: 250px;
+    height: 300px;
+
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    font-size: medium;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
